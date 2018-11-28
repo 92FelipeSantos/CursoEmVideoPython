@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86017be5-8092-4288-8d05-50f0bad927c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CursoEmVideoExercicios/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CursoEmVideoExercicios/ex012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CursoEmVideo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CursoEmVideo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CursoEmVideoExercicios/.idea/CursoEmVideoExercicios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CursoEmVideoExercicios/.idea/CursoEmVideoExercicios.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CursoEmVideoExercicios/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CursoEmVideoExercicios/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CursoEmVideoExercicios/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CursoEmVideoExercicios/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CursoEmVideoExercicios/ex015.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CursoEmVideoExercicios/ex015.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,11 +48,12 @@
     <session id="-2087276359">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.37" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
     </session>
